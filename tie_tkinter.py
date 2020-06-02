@@ -7,7 +7,7 @@ def onclick():
     playsound("Sound.mp3")
     root.destroy()
     os.system('python tkinter2.py')
-    
+
 def ExitApp():
     playsound("Sound.mp3")
     root.destroy()
@@ -25,7 +25,7 @@ root.geometry("%dx%d+%d+%d"%(width,height,x_cood,y_cood))
 root.resizable(width=False,height=False)
 canvas=Canvas(root,width=600,height=400)
 canvas.pack()
-image=ImageTk.PhotoImage(Image.open("win.png"))
+image=ImageTk.PhotoImage(Image.open("TIE.png"))
 canvas.create_image(0,0,anchor=NW,image=image)
 b=Button(root,text="",command=onclick)
 img = PhotoImage(file="restart.png") 
