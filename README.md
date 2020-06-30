@@ -1,15 +1,10 @@
 
-
-<div align = "center">
-<img src="static/images/icon-512.png" width=200px/>
-</div>
 <h1 align="center">RockPaperScissors</h1>
 
 <div align="center">
 
 [![made-with-python](https://forthebadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-[![made-with-tkinter]()](https://docs.python.org/3/library/tkinter.html)
 
 <br>
 
