@@ -21,7 +21,7 @@
 > Scores are validated and winner is declared
 -------------------------------------------
 
-##### Demo
+### Demo
 
 <div align = "center">
 
